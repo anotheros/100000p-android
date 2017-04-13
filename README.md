@@ -11,3 +11,12 @@ Android 端
 
 
 api 根目录 api.sbxiaomi.com
+
+
+Android 端技术推荐。
+
+强烈推荐 rxjava
+
+okhttp 
+
+maven/gradle 一定选一个
