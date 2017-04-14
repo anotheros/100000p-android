@@ -1,6 +1,8 @@
 # 100000p-android
 Android 端
 
+qq群号:238068472
+
  [Readthis](http://100000p.com)
 
 # [api文档地址](https://github.com/zhangshanhai/readthis-api)
